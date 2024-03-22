@@ -7,4 +7,4 @@ construa uma lista de alunos onde você pode adicionar ou remover alunos, para i
 ## Professor 
 
 Prof. Diogo D. Moreira
-![GitHub]() do professor 
+![GitHub](https://github.com/diogomoreira) do professor 
